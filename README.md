@@ -1,9 +1,9 @@
 # 💫 About Me:
-#### 🧑‍💻 I'm Harshit Srivastava, CSE undergrad at Punjab Engineering College.
-#### 🚀 Building tools like an AI-powered resume ranker & verified hiring platform.
-#### 💬 Into ML, full-stack dev, backend systems & algorithmic problem solving.
-#### 🛠️ Working with Next.js, Node.js, PostgreSQL, Prisma, C++, and more.
-#### 🤝 Open to collabs & tech discussions!
+### 🧑‍💻 I'm Harshit Srivastava, CSE undergrad at Punjab Engineering College.
+### 🚀 Building tools like an AI-powered resume ranker & verified hiring platform.
+### 💬 Into ML, full-stack dev, backend systems & algorithmic problem solving.
+### 🛠️ Working with Next.js, Node.js, PostgreSQL, Prisma, C++, and more.
+### 🤝 Open to collabs & tech discussions!
 
 
 # 🌐 Socials:
