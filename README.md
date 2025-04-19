@@ -50,7 +50,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=harshit2004h&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="contributions stats"  />
+    <img src="https://github-contributor-stats.vercel.app/api?username=harshit2004h&limit=5&theme=dark&combine_all_yearly_contributions=true" height="250" alt="contributions stats"  />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=harshit2004h&icon=1&color=6)](https://visitcount.itsvg.in)
