@@ -1,10 +1,12 @@
-# 💫 About Me:
-### 🧑‍💻 I'm Harshit Srivastava, CSE undergrad at Punjab Engineering College.
-### 🚀 Building tools like an AI-powered resume ranker & verified hiring platform.
-### 💬 Into ML, full-stack dev, backend systems & algorithmic problem solving.
-### 🛠️ Working with Next.js, Node.js, PostgreSQL, Prisma, C++, and more.
-### 🤝 Open to collabs & tech discussions!
+<h1>💫 About Me</h1>
+<h3>⚡ Harshit Srivastava — not just another CSE undergrad at <strong>Punjab Engineering College</strong>, but a builder chasing <strong>impact over hype</strong>.</h3>
+<h3>🛠️ I’m engineering tools that <em>actually matter</em> — like an <strong>AI-powered resume ranker</strong> and a <strong>verified hiring ecosystem</strong> designed to cut through hiring noise.</h3>
+<h3>🚀 I speak fluently in <code>Next.js</code>, <code>Node.js</code>, <code>PostgreSQL</code>, <code>Prisma</code>, <code>C++</code>, and sometimes… pure chaos (a.k.a. debugging at 2AM).</h3>
+<h3>🧠 My sweet spot? <strong>DSA + full-stack + systems design</strong>, stitched together by obsession over clean logic and fast user value.</h3>
+<h3>💬 I don’t just code. I <strong>discuss</strong>, <strong>debate</strong>, and <strong>ship</strong> — fast.</h3>
+<h3>🌍 See the story unfold: 👉 <a href="https://harshit-portfolio-eta.vercel.app" target="_blank" rel="noopener noreferrer">My Portfolio</a></h3>
 
+---
 
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsriv04@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit2004h)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit2004h)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/harshit2004h) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshit2004h) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/harshit2004h) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/harshit2004h) 
